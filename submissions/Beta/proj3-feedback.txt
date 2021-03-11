@@ -1,0 +1,9 @@
+Delivered as specified. yes
+Uses game template. yes
+Includes comments to identify author. yes
+Includes comments to identify the version. yes
+Includes comments to describe what the code does. yes
+Includes comments to give a brief description of how to play the game. yes
+Game compiles. yes
+Game has no warnings. yes
+Playtests adequately. yes

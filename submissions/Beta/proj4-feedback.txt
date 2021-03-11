@@ -1,0 +1,9 @@
+Like the attention to detail in the artwork, the level design, the audio,  and in general, the progress.
+
+Here's some suggestions to improve the game:
+
+1. I gather the PC perspective is top-down. In that case, rather than seeming to slid the PC through the world, animate it, move the arms back and forth.
+
+2. When the PC does something, picks up something, again animate it.
+
+3. In general, the top-down POV is a bit more difficult to seem detail in the PC, especially if the clothing, shoes, etc. are all the same color. Brighten the PC and separate the hat, shirt, etc.

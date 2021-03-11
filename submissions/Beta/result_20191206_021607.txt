@@ -1,0 +1,16 @@
+Check results
+=============
+
+
+
+Code
+=============
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+LIGHT_GREY = (190, 190, 190)
+DARK_GREY = (100, 100, 100)
+TAN = (230, 210, 180)
+LIGHT_BLUE = (150, 185, 225)
+
+SCREEN_WIDTH = 1000
+SCREEN_HEIGHT = 721

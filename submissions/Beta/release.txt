@@ -1,0 +1,20 @@
+How to Run:
+  - The main program file is escape_the_programming_lab.py. Run this file to
+    launch the game.
+
+
+Known Issues:
+  - [BUG] Movement around certain objects can cause the player to be moved to
+    odd places due to the collision detection of pygame. This is rare, I've only
+    noticed it around the fridge in level 2 and near the tree in level 3.
+    (Note: In level 3, go directly up from the tree and then move right after
+    picking up the green card or the player is moved off of the screen)
+
+  - [Limitation] Level 3 is the most advanced in terms of graphics and
+    animations. I considered adding more to the first 2 levels, but decided that
+    would be too much for the Beta. If I were to move forward with this game, I
+    would probably start with level 3 as the first level and build from that.
+
+  - [Performance] There is some screen delay at startup before the splash screen
+    loads. After some investigation, I came to the conclusion that the most
+    likely cause is the pygame engine showing its own limitations.
